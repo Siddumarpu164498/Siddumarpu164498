@@ -41,17 +41,11 @@
 
 ### 📌 Featured Projects
 
-<p align="center">
-  <a href="https://github.com/Siddumarpu164498/siddu-portfolio">
-    <img src="https://github-readme-stats.vercel.app/api/pin/?username=Siddumarpu164498&repo=siddu-portfolio&theme=tokyonight&hide_border=true" />
-  </a>
-  <a href="https://github.com/Siddumarpu164498/Budget-bee">
-    <img src="https://github-readme-stats.vercel.app/api/pin/?username=Siddumarpu164498&repo=Budget-bee&theme=tokyonight&hide_border=true" />
-  </a>
-  <a href="https://github.com/Siddumarpu164498/Multiverse_of_100-_data_science_project_series">
-    <img src="https://github-readme-stats.vercel.app/api/pin/?username=Siddumarpu164498&repo=Multiverse_of_100-_data_science_project_series&theme=tokyonight&hide_border=true" />
-  </a>
-</p>
+| Project | What it is |
+|---|---|
+| 🌐 [**siddu-portfolio**](https://github.com/Siddumarpu164498/siddu-portfolio) | Personal portfolio site — Next.js, TypeScript, Tailwind, shadcn/ui. [Live demo →](https://siddu-portfolio-sable.vercel.app/) |
+| 💰 [**Budget-bee**](https://github.com/Siddumarpu164498/Budget-bee) | Full-stack expense tracker — React/TypeScript + FastAPI + PostgreSQL, OTP auth, admin approval flow |
+| 📊 [**Multiverse of 100 Data Science Projects**](https://github.com/Siddumarpu164498/Multiverse_of_100-_data_science_project_series) | Following a 100-project data science series — EDA, ML, and deep learning in Python/Jupyter |
 
 **🔗 [Live Portfolio →](https://siddu-portfolio-sable.vercel.app/)**
 
@@ -60,21 +54,6 @@
 ### 🏆 Certifications
 
 Data Science & ML (IIT Madras) · Business Analytics & Text Mining (IIT Kharagpur) · AWS Cloud Computing · Full Stack Development (GeeksforGeeks) · ServiceNow System Administrator · Network Security Associate (AICTE)
-
-### 📊 GitHub Stats
-
-<p align="center">
-  <img src="https://github-readme-stats.vercel.app/api?username=Siddumarpu164498&show_icons=true&theme=tokyonight&hide_border=true&count_private=true" height="165"/>
-  <img src="https://github-readme-streak-stats.herokuapp.com/?user=Siddumarpu164498&theme=tokyonight&hide_border=true" height="165"/>
-</p>
-
-<p align="center">
-  <img src="https://github-readme-stats.vercel.app/api/top-langs/?username=Siddumarpu164498&layout=compact&theme=tokyonight&hide_border=true" height="165"/>
-</p>
-
-<p align="center">
-  <img src="https://github-profile-trophy.vercel.app/?username=Siddumarpu164498&theme=tokyonight&no-frame=true&row=1&column=6" />
-</p>
 
 <p align="center">
   <img src="https://komarev.com/ghpvc/?username=Siddumarpu164498&style=for-the-badge&color=38BDF8" alt="Profile views" />
