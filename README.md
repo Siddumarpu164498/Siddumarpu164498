@@ -13,18 +13,21 @@
 
 ### About me
 
+- 🚀 Associate ML Engineer @ **Brightcone.ai** (Aug 2026 – Present)
 - 🎓 B.Tech in Information Technology (CGPA **9.16**) @ Aditya Institute of Technology and Management — expected 2026
-- 🤖 ML Intern @ **Yanthraa Information Systems** — building secure, enterprise LLM infrastructure
+- 🤖 Previously: ML Intern @ **Brightcone.ai** and **Yanthraa Information Systems** — enterprise LLM infrastructure
 - 🛠️ Certified **ServiceNow** Intern — ITSM, incident management, and workflow automation
 - 🌱 Full-stack development, AI/LLM infrastructure, and cloud technologies
 - 💬 Ask me about Python, TypeScript, Git, or ServiceNow
 
 ### 💼 Experience
 
-| Role | Organization | Highlights |
-|---|---|---|
-| ML Intern | Yanthraa Information Systems | Enterprise LLM infrastructure — data ingestion, HIPAA/GDPR-compliant masking, FAISS semantic search, GPT-4 integration |
-| Certified ServiceNow Intern | ServiceNow Virtual Internship | ITSM fundamentals, incident management, UI policy scripting, instance configuration |
+| Role | Organization | Duration | Highlights |
+|---|---|---|---|
+| Associate ML Engineer | **Brightcone.ai** | Aug 2026 – Present (Full-time) | ML engineering |
+| ML Intern | **Brightcone.ai** | Jun 2026 – Jul 2026 | Machine learning internship |
+| ML Intern | Yanthraa Information Systems | May 2025 | Enterprise LLM infrastructure — data ingestion, HIPAA/GDPR-compliant masking, FAISS semantic search, GPT-4 integration |
+| Certified ServiceNow Intern | ServiceNow Virtual Internship | May 2025 | ITSM fundamentals, incident management, UI policy scripting, instance configuration |
 
 ### 🛠️ Tech Stack
 
