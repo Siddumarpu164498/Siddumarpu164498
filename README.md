@@ -13,21 +13,30 @@
 
 ### About me
 
-- 🔭 I'm currently exploring **Data Science / ML**, **full-stack web development**, and **ServiceNow** development
-- 🌱 Always learning — recent focus on Python data projects and TypeScript/Next.js apps
+- 🎓 B.Tech in Information Technology (CGPA **9.16**) @ Aditya Institute of Technology and Management — expected 2026
+- 🤖 ML Intern @ **Yanthraa Information Systems** — building secure, enterprise LLM infrastructure
+- 🛠️ Certified **ServiceNow** Intern — ITSM, incident management, and workflow automation
+- 🌱 Full-stack development, AI/LLM infrastructure, and cloud technologies
 - 💬 Ask me about Python, TypeScript, Git, or ServiceNow
-- ⚡ Fun fact: I like turning side projects into shipped, deployed apps
+
+### 💼 Experience
+
+| Role | Organization | Highlights |
+|---|---|---|
+| ML Intern | Yanthraa Information Systems | Enterprise LLM infrastructure — data ingestion, HIPAA/GDPR-compliant masking, FAISS semantic search, GPT-4 integration |
+| Certified ServiceNow Intern | ServiceNow Virtual Internship | ITSM fundamentals, incident management, UI policy scripting, instance configuration |
 
 ### 🛠️ Tech Stack
 
 <p align="center">
-  <img src="https://skillicons.dev/icons?i=python,ts,js,react,nextjs,nodejs,html,css,git,github,vscode,vercel&perline=6" />
+  <img src="https://skillicons.dev/icons?i=java,python,cpp,c,js,ts,react,nextjs,django,html,css,tailwind,mysql,postgresql,mongodb,aws,docker,git,github,linux,vscode,vercel&perline=8" />
 </p>
 
 <p align="center">
   <img src="https://img.shields.io/badge/ServiceNow-00C487?style=for-the-badge&logo=servicenow&logoColor=white" />
   <img src="https://img.shields.io/badge/Jupyter-F37626?style=for-the-badge&logo=jupyter&logoColor=white" />
   <img src="https://img.shields.io/badge/Pandas-150458?style=for-the-badge&logo=pandas&logoColor=white" />
+  <img src="https://img.shields.io/badge/LLM%2FAI-8A2BE2?style=for-the-badge&logo=openai&logoColor=white" />
 </p>
 
 ### 📌 Featured Projects
@@ -45,6 +54,12 @@
 </p>
 
 **🔗 [Live Portfolio →](https://siddu-portfolio-sable.vercel.app/)**
+
+> Also built **Holocron** — a proprietary LLM infrastructure project (data pipelines, FAISS indexing, GPT-4 integration) as part of my ML internship. See the [Projects section of my portfolio](https://siddu-portfolio-sable.vercel.app/#projects) for details.
+
+### 🏆 Certifications
+
+Data Science & ML (IIT Madras) · Business Analytics & Text Mining (IIT Kharagpur) · AWS Cloud Computing · Full Stack Development (GeeksforGeeks) · ServiceNow System Administrator · Network Security Associate (AICTE)
 
 ### 📊 GitHub Stats
 
